@@ -1,3 +1,8 @@
 # BreastCancer-Detection-Project
 This project uses machine learning to detect whether the person has Benign or Malignant breast cancer. 
-Four models are implemented out of which any one model can be used for detection.
+I have trained four models which are:
+ - Logistic Regression
+ - Decision Tree Classifier
+ - Randome Forest Classifier
+ - Support Vector Classifier
+Out of these, the highest accuracy was obtained for Support Vector Classifier method (98.83 %).
